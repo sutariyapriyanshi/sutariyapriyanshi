@@ -17,6 +17,12 @@
 
 - 😄 Pronouns: She / Her
 
+<p>        </p>
+<img align="center" alt="coding" width="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@priyanshi-sutariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@priyanshi-sutariya" height="30" width="40" /></a>
