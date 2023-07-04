@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Priyanshi Sutariya</h1>
 <h3 align="center">A passionate student who eagerly want to learn new things</h3>
 
