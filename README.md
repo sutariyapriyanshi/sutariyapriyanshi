@@ -6,7 +6,7 @@
 [![linkedin badge](https://img.shields.io/badge/Priyanshi_Sutariya-493D26?style=flat&logo=linkedin)](linkedin.com/in/priyanshi-sutariya-4b2889227)
 [![gmail badge](https://img.shields.io/badge/Priyanshi_Sutariya-F9A7B0?style=flat&logo=gmail)](sutariyapriyanshi4@gmail.com)
 
-- 🌱 I’m currently learning For **Data science**
+- 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 My profiles is available at [https://linktr.ee/Priyanshi04](https://linktr.ee/Priyanshi04)
 
